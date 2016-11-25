@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<link rel="stylesheet" href="/promo/promoFiles/superSite.css" type="text/css">
+		<title>Акция — сайт за 5000 рублей</title>
+		<!-- Вставить хедер сюда -->
+		<!--#include virtual="/includes/header.html"-->
+	</head>
+<body>
+
+	<!-- Вставить меню сюда -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+	<!-- Вставить меню портфолио сюда -->
+
+
+
+
+<!-- 	<div id="weCanDoIt">
+		<div class="grid" align="center">
+			<div id="weCanDoItText">
+				Мы действительно можем сделать сайт всего за&nbsp;5&thinsp;000&thinsp;&#8399;
+			</div>
+		</div>
+	</div>
+ -->
+	<div class="predlozhenie">
+		<b>Суть нашего предложения простая&nbsp;—</b> мы&nbsp;делаем удобный и&nbsp;красивый сайт за&nbsp;72 часа и&nbsp;5&thinsp;000&thinsp;&#8399; на&nbsp;основе созданных в&nbsp;студии шаблонов. Вы нам высылаете всю необходимую информацию<br>о&nbsp;вашей компании, мы&nbsp;адаптируем шаблон под вас и&nbsp;запускаем сайт.<br><br>
+		Такой метод позволит вам получить отличный инструмент для продвижения своего бизнеса за&nbsp;небольшие деньги и&nbsp;за&nbsp;очень короткий срок.
+	</div>
+
+	<!-- Как выглядит сайт на основе шаблона -->
+	<div id="howItLooksLike">
+
+		<div class="promoHeaderWhite" style="padding: 60px 0 30px 0">
+			Как выглядит сайт на основе шаблона
+		</div>
+
+		<div id="howItLooksLikePodzag">
+			На основе шаблона Simplestyle
+		</div>
+
+		<div id="exampleWrapper">
+
+			<div class="grid" style="position:relative;">
+				<div id="exampleAbout">
+
+					<div id="aboutLeft">
+						<br>
+						<div class="exampleHeader">Шапка</div>
+						<div class="exampleText">Тут находится логотип компании, главное меню, по-иск или контакты.<br>Цвета шапки можно менять.</div>
+						<div style="height: 195px; width: 20px;"></div>
+						<div class="exampleHeader">Услуги</div>
+						<div class="exampleText">Короткое описание ваших основных услуг даст по-сетителю быстро понять чем именно занимается ваша компания.</div>
+						<div style="height: 257px; width: 20px;"></div>
+						<div class="exampleHeader">почему вы</div>
+						<div class="exampleText">Здесь можно описать почему клиенты выбирают именно вашу компанию.<br>Ваши конкурент-<br>ные преимущства.</div>
+						<div style="height: 306px; width: 20px;"></div>
+						<div class="exampleHeader">Подвал</div>
+						<div class="exampleText">Здесь указывается полное название компании, ссылки на все разделы, а также, если нужно кнопки социальных сетей.</div>
+					</div>
+
+					<div id="aboutRight">
+						<div style="height: 110px; width: 20px;"></div>
+						<div class="exampleHeader">промо 1</div>
+						<div class="exampleText">Большой блок с красивыми картинками. Помогает продви-<br>гать ваши основ-<br>ные услуги.</div>
+						<div style="height: 245px; width: 20px;"></div>
+						<div class="exampleHeader">промо 2</div>
+						<div class="exampleText">Блок-ссылка на какой-то раздел сайта.<br>Это может быть калькулятор стоимости услуг, фотогалерея, отзывы и т.д.</div>
+						<div style="height: 269px; width: 20px;"></div>
+						<div class="exampleHeader">Контакты</div>
+						<div class="exampleText">Все ваши контактные данные и карта проезда если она нужна.</div>
+						
+					</div>
+
+				</div>
+			</div>
+
+			<div id="examplePage"></div>
+
+		</div>
+		
+	</div>
+	<!-- EOF Как выглядит сайт на основе шаблона -->
+
+	<div class="clean"></div>
+
+	<div class="predlozhenie">
+		Количество и расположение блоков зависит от той информации, которую вы предоставите и от выбранного шаблона. Сайт на основе шаблона состоит из самых важных и основных разделов для потенциальных клиентов.<br><br>
+		Также мы можем добавить на сайт раздел, которого нет в перечисленных ниже. Стоимость такой модификации будет зависеть от сложности нового раздела. Простой раздел добавим бесплатно.
+	</div>
+
+
+	<!-- Типовые разделы -->
+	<div id="category">
+		<div class="grid" style="width: 980px">
+			<div class="promoHeaderWhite" style="padding: 34px 0 40px 0">
+				Типовые разделы
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">О компании</div>
+				<div class="categoryBlockText">Страница, где вы&nbsp;можете рассказать своим клиентам о&nbsp;вашей компании, о&nbsp;том, что&nbsp;вас отличает от&nbsp;других.</div>
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">Услуги</div>
+				<div class="categoryBlockText">В&nbsp;этом разделе вы можете подробно описать для потцениального клиента чем именно вы&nbsp;занимаетесь.</div>
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">Прайс-лист</div>
+				<div class="categoryBlockText">Если&nbsp;у вас есть конкретные цены на&nbsp;вашу продукцию или услуги вы&nbsp;можете выложить их&nbsp;в&nbsp;этом&nbsp;разделе.</div>
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">Контакты</div>
+				<div class="categoryBlockText">В этом разделе помимо самих контактов может быть форма обратной связи и карта проезда.</div>
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">Фотогалерея</div>
+				<div class="categoryBlockText">Удобная для просмотра галерея подойдет для показа интерьера заведения или для презентации продукции.</div>
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">Отзывы</div>
+				<div class="categoryBlockText">Покажите отзывы существующих клиентов и это поможет вам убедить потенциальных.</div>
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">Новости</div>
+				<div class="categoryBlockText">Актуальный раздел для компаний, которые хотят постоянно держать клиентов в курсе своей деятельности.</div>
+			</div>
+			<div class="categoryBlock">
+				<div class="categoryBlockHeader">Акции</div>
+				<div class="categoryBlockText">В этом разделе вы можете перечислить свои акции, а&nbsp;так&nbsp;же&nbsp;описать условия их проведения.</div>
+			</div>
+		</div>
+	</div>
+	<!-- EOF Типовые разделы -->
+
+
+	<!-- Суперцифры -->
+	<div id="digits">
+		<div id="digitsBig"></div>
+		<div class="grid">
+			<div class="digitsBigText">часа</div>
+			<div class="digitsBigText">месяцев</div>
+			<div class="digitsBigText">год</div>
+			<div class="digitsBigText" style="margin: 0;">рублей</div>
+			<div class="clean"></div>
+		</div>
+		<div id="digitsArrows"></div>
+		<div class="grid">
+			<div class="digitsText">Именно столько времени пройдёт от оплаты наших услуг до релиза готового сайта.</div>
+			<div class="digitsText">В течение этого срока мы будем осуществлять гарантийную поддержку сайта.</div>
+			<div class="digitsText">Сразу после оплаты мы зарегистрируем для вас доменное имя и хостинг сроком на один год.</div>
+			<div class="digitsText" style="margin: 0;">Наш гонорар — вы платите ровно 5000 рублей и получаете готовый сайт. Ни больше ни меньше.</div>
+		</div>
+	</div>
+	<!-- EOF Суперцифры -->
+
+
+	<!-- Кому подойдёт такой сайт -->
+	<div id="whoNeedIt">
+		<div class="promoHeaderWhite" style="padding: 53px 0 50px 0;">
+			Кому подойдёт такой сайт?
+		</div>
+		<div id="whoNeedItText">
+			Сайт на основе шаблона будет идеальным вариантом для многих компаний, независимо от сферы деятельности. Он будет выгоден как компаниям предоставляющим услуги — автосервисы, салоны красоты, агенства недвижимости и т.д.,  так и произвественным предприятиям — мебельные фабрики, типографии и т.д.
+		</div>
+	</div>
+	<!-- EOF Кому подойдёт такой сайт  -->
+
+
+	<!-- Что делаем мы и вы -->
+	<div class="weAndYou">
+		<div class="promoHeaderWhite" style="padding: 53px 0 50px 0; color: black;">Что делаем мы:</div>
+		<div class="weAndYouRounds1"></div>
+		<div class="grid">
+			<div class="weAndYouRoundsText">Регистрация хостинга, домена</div>
+			<div class="weAndYouRoundsText">Выбор<br>шаблона</div>
+			<div class="weAndYouRoundsText">Установка и настройка CMS</div>
+			<div class="weAndYouRoundsText">Установка шаблона</div>
+			<div class="weAndYouRoundsText">Встраивание модулей</div>
+			<div class="weAndYouRoundsText">Наполнение контентом</div>
+			<div class="weAndYouRoundsText">Регистрация в Яндекс.Метрике</div>
+			<div class="weAndYouRoundsText" style="padding: 0;">Тестирование и запуск</div>
+			<div class="clean"></div>
+		</div>
+	</div>
+
+	<div id="weAndYouLine"></div>
+	
+	<div class="weAndYou" style="height: 350px;">
+		<div class="promoHeaderWhite" style="padding: 53px 0 40px 0; color: black;">Что делаете вы:</div>
+		<div class="weAndYouRounds2"></div>
+		<div class="grid" style="width: 348px;">
+			<div class="weAndYouRoundsText">Высылаете нам информацию о компании</div>
+			<div class="weAndYouRoundsText">Вместе с нами выбираете шаблон</div>
+			<div class="weAndYouRoundsText" style="padding: 0;">Оплачиваете услуги нашей студии</div>
+		</div>
+	</div>
+	<!-- EOF Что делаем мы и вы -->
+
+
+	<!-- Готовые сайты — довольные клиенты -->
+	<div id="doneSites">
+		<div class="promoHeaderWhite" style="padding: 53px 0 50px 0">Готовые сайты — довольные клиенты</div>
+		<div class="gridTwo" style="color: white; text-align: center;">
+			<style type="text/css">.gridTwo a {color: white;}</style>
+			<!--#include virtual="/sites/avtodoktor_t.html"-->
+			<!--#include virtual="/sites/moika-moika_t.html"-->
+			<!--#include virtual="/sites/tatservice_t.html"-->
+			<!--#include virtual="/sites/aidarSalimov_t.html"-->
+			<div class="clean"></div>			
+		</div>
+		<div id="showAllWorks"><a href="/sites/index.shtml" style="color: white;">Показать все работы</a></div>
+	</div>
+	<!-- EOF Готовые сайты — довольные клиенты -->
+
+
+	<!-- Закажите сайт сейчас -->
+	<div id="orderNow">
+		<div class="promoHeaderWhite" style="padding: 53px 0 30px 0 ">Закажите сайт сейчас</div>
+		<div id="orderNowPodzag" style="padding: 0 0 50px 0;">Оставьте нам свои контакты и мы свяжемся с вами в течение рабочего дня</div>
+
+	<form name="orderNow" action="/promo/promoFiles/orderSend.php" method="post" id="orderNowStyle" align="center">
+		<input name="name" id="orderNowFIO" type="text" placeholder="Имя" autocomplete="off"></input><br>
+		<input name="email" id="orderNowEmail" type="email" placeholder="Электронная почта" autocomplete="off"></input><br>
+		<input name="phone" id="orderNowComment" type="text" placeholder="Комментарий к сообщению" autocomplete="off"></input><br>
+		<input value="Отправить" type="submit" id="orderNowGo" />
+	</form>
+
+	</div>
+	<!-- EOF Закажите сайт сейчас -->
+
+
+	<!-- Нужен более функциональный сайт? -->
+	<div class="promoHeaderWhite" style="padding: 104px 0 50px 0; color: black;">Нужен более функциональный сайт?</div>
+	<div style="width: 715px; margin: 0 auto 0 auto; text-align: center; padding: 0 0 100px 0;">
+		Студия дизайна v/va занимается разработкой не только шаблонных сайтов.<br>
+		Мы умеем рисовать большие и красивые каталоги, удобные интернет-магазины промо-страницы и лендинги. Напишите нам, если вам нужен более продвинутый сайт и мы с радостью всё обсудим.
+	</div>
+	<!-- EOF Нужен более функциональный сайт? -->
+
+
+	<!-- Вставить футер сюда -->
+	<!--#include virtual="/includes/footer.html"-->	
+
+
+</body>
+</html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
