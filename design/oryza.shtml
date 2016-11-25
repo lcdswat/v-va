@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Леттеринг для меню «Оризы»</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeG.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Леттеринг для меню «Оризы»
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/oryza2.jpg" class="round" /><br><br>		
+		</div>
+
+		<!-- Описание работы правая колонка -->
+		<div class="workRight">
+			«Ориза»&nbsp;&mdash; уфимское тако-кафе.<br><br>
+			Их&nbsp;еда такая вкусная, а&nbsp;расположение настолько удачное, что я&nbsp;не&nbsp;удивлюсь, если когда-нибудь это место станет культовым.<br><br>
+
+			В&nbsp;небольшом помещении на&nbsp;улице Ленина в&nbsp;самом центре города сочные красные стены, вкусные запахи и&nbsp;отличный вид из&nbsp;узких окон. А&nbsp;ещё здесь можно взять с&nbsp;собой вкуснейшие закуски и&nbsp;кофе.<br>Для меня особенным удовольствием было сделать аппетитные надписи для их&nbsp;нового меню. Работу можно оценить на&nbsp;<a href="https://www.behance.net/gallery/28588201/Menu-lettering?">behance</a>.
+			<br><br>
+			<div class="whoDid">Дизайн — <a href="/ekaterina-bakirova">Екатерина Бакирова</a></div><br>
+		</div>
+
+		<div class="grid">
+			<img src="images/oryza13.jpg" class="roundShadow">
+				<div class="workRight">
+					Вот так выглядит обновлённое меню кафе.
+				</div><br><br>
+			<img src="images/oryza14.jpg" class="roundShadow">
+				<div class="workRight">
+					Это вторая часть меню. Мне нравится, как смотрятся красные толстенькие буквы&nbsp;— очень аппетитно!
+				</div><br><br><br><br>
+			<div class="workLeft">
+				Все надписи сделаны в единственном экземпляре, нет ни&nbsp;одной повторяющейся буквы — и&nbsp;это делает меню уникальным, ручным и&nbsp;уютным.<br><br>
+				<img src="images/oryza3.jpg"><br>
+				<img src="images/oryza4.jpg"><br>
+				<img src="images/oryza5.jpg"><br>
+				<img src="images/oryza7.jpg"><br>
+				<img src="images/oryza8.jpg"><br>
+				<img src="images/oryza9.jpg"><br>
+				<img src="images/oryza10.jpg"><br>
+				<img src="images/oryza11.jpg"><br>
+				<img src="images/oryza12.jpg">
+			</div>
+
+			<div class="workLeft">
+				Примерно так выглядел мой рабочий стол во&nbsp;время работы над заголовками. Весь завален бумажками, которые я&nbsp;обрезала, чтобы побольше надписей поместилось в&nbsp;сканер за&nbsp;один раз.<br><br>
+				<img src="images/oryza1.jpg" class="round"><br><br><br>
+				<i>Спасибо за&nbsp;приятное сотрудничество <a href="https://vk.com/id187430313">Василию Кобелеву</a> и&nbsp;<a href="https://vk.com/ildar.kaderov">Ильдару Кадерову</a>.</i>
+			</div>
+			
+		</div>
+
+	</div>
+
+
+<div class="footerPush"></div>
+</div>
+
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

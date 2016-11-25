@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>ИнвестКапиталБанк концепт дизайна дебетовой карты</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeG.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Концепт карты «ИКБ»
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/investCard_1.jpg" class="round" />
+			<img src="images/investCard_2.png" />			
+		</div>
+
+		<!-- Описание работы правая колонка -->
+		<div class="workRight">
+			Разработка концепции дизайна дебетовой карты ИнвестКапиталБанка.<br><br>В качестве всем понятной метафоры выбран сейф, призванный напоминать клиентам банка о его надежности при каждой покупке.
+			<br><br><br>
+			<div class="whoDid">Дизайн — <a href="/marat-bakirov">Марат Бакиров</a></div>
+		</div>
+	</div>
+
+
+<div class="footerPush"></div>
+</div>
+
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

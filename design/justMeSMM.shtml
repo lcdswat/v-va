@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Шаблоны для SMM-продвижения JustMe</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeG.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Шаблоны SMM JustMe
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/justMeSMM_1.jpg" class="round" /><br><br>
+			<img src="images/justMeSMM_2.jpg" class="round" /><br><br>
+			<img src="images/justMeSMM_animation.gif" />			
+		</div>
+
+		<!-- Описание работы правая колонка -->
+		<div class="workRight">
+			JustMe club — это фитнес-клуб нового поколения. Для того, чтобы им заниматься не нужно никуда ездить — эксперты удаленно составят программу упражнений и помогут принять требуемую форму.<br><br>
+			Этот сервис только начинает своё развитие в России и для продвижения в социальных сетях в студии придумали множество шаблонов для разных ситуаций.
+			<br><br><br>
+			<div class="whoDid">Дизайн — <a href="/marat-bakirov">Марат Бакиров</a></div>
+		</div>
+	</div>
+
+
+<div class="footerPush"></div>
+</div>
+
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>
