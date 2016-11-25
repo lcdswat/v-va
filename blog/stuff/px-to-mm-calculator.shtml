@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Пиксели в миллиметры</title>
+	</head>
+
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<div class="grid">
+
+
+		<script type="text/javascript">
+			$(document).ready(function(){
+
+			var getFloat = function(selector){ 
+			return parseFloat($(selector).val().replace(",", ".")); 
+			};
+
+			$('#width').on('change keydown keyup', function(){
+			var val = getFloat('#width') / 25.4 * getFloat('#dpi');
+			$('#result_width').val(isNaN(val) ? "" : Math.round(val));
+			});
+
+			$('#height').on('change keydown keyup', function(){
+			var val = getFloat('#height') / 25.4 * getFloat('#dpi');
+			$('#result_height').val(isNaN(val) ? "" : Math.round(val));
+			});
+
+			});
+		</script>
+
+		<style type="text/css">
+			.pxToMmCalculator input {
+				width: 326px;
+				padding: 10px;
+				margin: 0 20px 0 0;
+				border: 1px solid gray;
+				border-radius: 4px;
+			}
+
+			.pxToMmCalculator label {
+				display: block;
+				padding: 0 0 10px 0;
+			}
+
+			.pxToMmCalculator .pxToMmResult {
+
+			}
+		</style>
+		
+		<div class="artHeader">
+			Пиксели в миллиметры
+		</div>
+
+		<div class="grid">
+			<div class="note">Этот конвертер сделан специально для тех, кто хочет узнать какого размера в&nbsp;пикселях нужно найти изображение для печати. <b >Работает просто</b>&nbsp;&mdash; вбиваем ширину и&nbsp;высоту в&nbsp;миллиметрах в&nbsp;соответствующие поля, указываем необходимое значение dpi и&nbsp;смотрим результат в&nbsp;пикселях. По&nbsp;умолчанию задано среднее печатное разрешение&nbsp;&mdash; 300&nbsp;dpi, но&nbsp;вы&nbsp;можете задать любое.<br>
+			Подробнее о&nbsp;том, что такое DPI читайте в&nbsp;<a href="/blog/dpi.shtml">этой заметке.</a></div><br><br>
+			<form class="pxToMmCalculator">
+				<div class="fleft">
+					<label>Ширина, мм</label>
+					<input type="" placeholder="" id="width">
+				</div>
+				<div class="fleft">
+					<label>Высота, мм</label>
+					<input type="" placeholder="" id="height">
+				</div>
+				<div class="fleft">
+					<label>Разрешение, dpi</label>
+					<input type="" style="margin: 0; width: 202px;" placeholder="DPI" value="300" id="dpi">
+				</div>
+
+				<div class="clean"></div><br>
+
+				<div class="fleft">
+					<label>Ширина, px</label>
+					<input type="" placeholder="" id="result_width">
+				</div>
+				<div class="fleft">
+					<label>Высота, px</label>
+					<input type="" placeholder="" id="result_height">
+				</div>
+				<div class="clean"></div><br><br><br>
+			</form>
+		</div>
+			
+	</div>
+
+	<div class="footerPush"></div>
+	</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

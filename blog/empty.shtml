@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Заголовок</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+
+	<div class="grid">
+		<!-- Заголовок статьи -->
+		<div class="artHeader">
+			Заголовок
+		</div>
+
+		<!-- Статья левая колонка -->
+		<div class="artLeft">
+			Автор — <a href="/blog/marat-bakirov.shtml">Марат Бакиров</a><br><br><br>
+
+			Текст писать сюда
+
+			<br><br><br>&para;<br><br><br>
+
+		</div>
+
+		<!-- Статья правая колонка -->
+		<div class="artRight">
+			&larr;<br>Сноска
+		</div>
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Инструменты</title>
+	</head>
+
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<div class="grid">
+
+		<div class="artHeader">
+		<a href="/blog/">Заметки</a> / <a href="/blog/video/">Видео</a> / Инструменты
+		</div>
+
+		
+
+			
+	</div>
+
+	<div class="footerPush"></div>
+	</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

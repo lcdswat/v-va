@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Заметки</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+
+	<div class="grid">
+		<!-- Заголовок статьи -->
+		<div class="artHeader">
+		Заметки / <a href="/blog/video/">Видео</a> / <a href="/blog/stuff/">Инструменты</a>
+		</div>
+
+		<!-- Статья левая колонка -->
+		<div class="artLeft">
+
+			<!--#include virtual="/blog/data-merge_t.html"-->
+			<!--#include virtual="/blog/toc_t.html"-->
+			<!--#include virtual="/blog/plohaya-verstka-2_t.html"-->
+			<!--#include virtual="/blog/plohaya-verstka-1_t.html"-->
+			<!--#include virtual="/blog/etapy-sozdaniya-logotipa_t.html"-->
+			<!--#include virtual="/blog/o-dopechatke_t.html"-->
+			<!--#include virtual="/blog/instrumenty_verstalshika_t.html"-->
+
+		</div>
+
+		<!-- Статья правая колонка -->
+		<div class="artRight">
+			<!--#include virtual="/includes/subscribe.html"-->
+		</div>
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

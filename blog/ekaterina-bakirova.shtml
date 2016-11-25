@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Автор — Екатерина Бакирова</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+
+	<div class="grid">
+		<!-- Заголовок статьи -->
+		<div class="artHeader">
+			Заметки Екатерины Бакировой:
+		</div>
+
+		<!--#include virtual="/blog/video/MK-brushpen-Chelny-2015-t.html"-->
+		<!--#include virtual="/blog/etapy-sozdaniya-logotipa_t.html"-->
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

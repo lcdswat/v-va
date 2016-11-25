@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Логотип Fitness Guides</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!--#include virtual="/includes/blackBgStyle.html"-->
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeB.html"-->
+
+	<div class="grid"> 
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Логотип Fitness Guides
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<div class="clean"></div>
+
+		<div class="whoDid">Дизайн — <a href="/ekaterina-bakirova/">Екатерина Бакирова</a>. 11.08.2015 г.</div><br>
+
+		Портал fitnessguides.ru посвящен фитнесу и&nbsp;здоровому образу жизни.<br>
+		Заказчик, Александр, обратился ко&nbsp;мне в&nbsp;социальной сети. В&nbsp;четверг он&nbsp;сформулировал задачу и&nbsp;перевел предоплату, и&nbsp;уже во&nbsp;вторник получил новый логотип.<br><br><br>
+	</div>
+
+	<div class="grid" style="text-align: center;">
+		
+		<img src="images/fg_1.jpg" class="round"><br><br><br>
+
+		<div class="workHeader" style="float: none;">Процесс</div>
+		В&nbsp;процессе работы поменялась концепция логотипа&nbsp;&mdash; если сперва это были толстенькие буквы и&nbsp;две строки, то&nbsp;в&nbsp;финальном варианте буквы стройные, надпись в&nbsp;одну строку и&nbsp;подчеркнута.<br><br><br>
+
+		<img src="images/fg_2.jpg"><br>
+
+		_____<br><br><br>
+		<img src="images/fg_3.gif"><br><br>
+
+		<i>Это первый вариант логотипа: аппетитный, но, конечно, не&nbsp;в&nbsp;фитнес-тематике :)</i><br><br><br>
+		_____<br><br><br>
+
+		<img src="images/fg_4.gif"><br>
+
+		<i>А&nbsp;это второй вариант, который и&nbsp;был в&nbsp;итоге принят.<br>
+		Он&nbsp;гораздо подтянутее и&nbsp;динамичнее, и&nbsp;лучше подходит порталу.</i><br><br><br><br><br><br>
+
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>
