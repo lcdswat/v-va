@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Портфолио Екатерины Бакировой</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<div class="portHeader">
+		Портфолио Екатерины Бакировой
+	</div>
+
+	<!-- Портфолио -->
+	<div class="gridTwo">
+		<h2>Логотипы, фирменные стили</h2>	
+			<!--#include virtual="/branding/fitness_guides_t.html"-->
+			<!--#include virtual="/branding/chertovsky_t.html"-->
+			<!--#include virtual="/branding/macaronsLab_t.html"-->
+			<!--#include virtual="/branding/nezhnyeFeshi_t.html"-->
+		<div class="clean"></div>
+
+		<br><br><h2>Графический дизайн</h2>
+			<!--#include virtual="/design/oryza_t.html"-->
+		<div class="clean"></div>
+
+		<br><br><h2>Сайты</h2>
+			<!--#include virtual="/sites/BSK_t.html"-->
+			<!--#include virtual="/sites/aquabrand_t.html"-->
+		<div class="clean"></div>
+
+
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>
