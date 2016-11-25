@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Карта сайта</title>
+	</head>
+<body>
+
+<style type="text/css">
+	ul {
+		margin: 0 0 20px 0;
+	}
+</style>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<div class="portHeader">
+		Карта сайта
+	</div>
+
+	<div class="grid">
+		<ul>
+	<li><a href="index.shtml">Студия v/va</a>  <span class="info"></span>
+	<ul>
+	<li><a href="about.shtml">О студии</a>  <span class="info"></span></li>
+	<li><a href="contacts.shtml">Контакты</a>  <span class="info"></span></li>
+	<li><a href="pay.shtml">Оплата услуг студии</a>  <span class="info"></span></li>
+	<li><a href="portfolio.shtml">Портфолио</a>  <span class="info"></span></li>
+	<li><a href="search.shtml">Поиск по сайту</a>  <span class="info"></span></li>
+		<li><a href="blog/index.shtml">Заметки</a>  <span class="info"></span>
+		<ul>
+		<li><a href="blog/data-merge.shtml">Нумерация в индизайне</a>  <span class="info"></span></li>
+		<li><a href="blog/ekaterina-bakirova.shtml">Автор — Екатерина Бакирова</a>  <span class="info"></span></li>
+		<li><a href="blog/etapy-sozdaniya-logotipa.shtml">Этапы создания логотипа</a>  <span class="info"></span></li>
+		<li><a href="blog/instrumenty_verstalshika.shtml">Инструменты верстальщика</a>  <span class="info"></span></li>
+		<li><a href="blog/marat-bakirov.shtml">Автор — Марат Бакиров</a>  <span class="info"></span></li>
+		<li><a href="blog/o-dopechatke.shtml">О допечатке</a>  <span class="info"></span></li>
+		<li><a href="blog/plohaya-verstka-1.shtml">Плохая вёрстка #1 — логика</a>  <span class="info"></span></li>
+		<li><a href="blog/plohaya-verstka-2.shtml">Плохая вёрстка #2 — текстовой набор</a>  <span class="info"></span></li>
+		<li><a href="blog/toc.shtml">Автоматическое содержание в индизайне</a>  <span class="info"></span></li>
+			<li><a href="blog/stuff/index.shtml">Инструменты</a>  <span class="info"></span>
+			<ul>
+			<li><a href="blog/stuff/px-to-mm-calculator.shtml">Пиксели в миллиметры</a>  <span class="info"></span></li>
+			</ul>
+			</li>
+			<li><a href="blog/video/index.shtml">Видео-заметки</a>  <span class="info"></span>
+			<ul>
+			<li><a href="blog/video/MK-brushpen-Chelny-2015.shtml">Мастер-класс по каллиграфии в Набережных Челнах</a>  <span class="info"></span></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li><a href="branding/index.shtml">Логотипы, фирменные стили</a>  <span class="info"></span>
+		<ul>
+		<li><a href="branding/chertovsky.shtml">Логотип Chertovsky</a>  <span class="info"></span></li>
+		<li><a href="branding/cubius.shtml">Логотип CUBIUS</a>  <span class="info"></span></li>
+		<li><a href="branding/fitness_guides.shtml">Логотип Fitness Guides</a>  <span class="info"></span></li>
+		<li><a href="branding/labrem.shtml">Логотип «Лаборатория ремонта»</a>  <span class="info"></span></li>
+		<li><a href="branding/lic79.shtml">Логотип школы-лицея № 79</a>  <span class="info"></span></li>
+		<li><a href="branding/macaronsLab.shtml">Логотип Macarons lab</a>  <span class="info"></span></li>
+		<li><a href="branding/mamiSami.shtml">Логотип блога «Мамы сами»</a>  <span class="info"></span></li>
+		<li><a href="branding/nezhnyeFeshi.shtml">Логотип «Нежные вещи»</a>  <span class="info"></span></li>
+		<li><a href="branding/vokrugVoiloka.shtml">Логотип «Вокруг Войлока»</a>  <span class="info"></span></li>
+		</ul>
+		</li>
+		<li><a href="design/index.shtml">Графический дизайн</a>  <span class="info"></span>
+		<ul>
+		<li><a href="design/hipstota.shtml">Оформление стеклянных перегородок офиса «Уфанет»</a>  <span class="info"></span></li>
+		<li><a href="design/investCard.shtml">ИнвестКапиталБанк концепт дизайна дебетовой карты</a>  <span class="info"></span></li>
+		<li><a href="design/justMeSMM.shtml">Шаблоны для SMM-продвижения JustMe</a>  <span class="info"></span></li>
+		<li><a href="design/oryza.shtml">Леттеринг для меню «Оризы»</a>  <span class="info"></span></li>
+		<li><a href="design/wedding_weekend.shtml">Баннер Wedding Weekend</a>  <span class="info"></span></li>
+		</ul>
+		</li>
+		<li><a href="ekaterina-bakirova/index.shtml">Портфолио Екатерины Бакировой</a>  <span class="info"></span>
+		
+		</li>
+		<li><a href="marat-bakirov/index.shtml">Портфолио Марата Бакирова</a>  <span class="info"></span>
+		
+		</li>
+		<li><a href="print/index.shtml">Полиграфия</a>  <span class="info"></span>
+		<ul>
+		<li><a href="print/den-soseda.shtml">«День соседа»</a>  <span class="info"></span></li>
+		<li><a href="print/drevograd.shtml">Каталог «Древоград»</a>  <span class="info"></span></li>
+		<li><a href="print/juventa.shtml">Печатная реклама типографии Juventa</a>  <span class="info"></span></li>
+		<li><a href="print/marcon.shtml">Брошюра MARCON</a>  <span class="info"></span></li>
+		<li><a href="print/shturman.shtml">Вёрстка и дизайн журнала «Штурман»</a>  <span class="info"></span></li>
+		</ul>
+		</li>
+		<li>promo/
+		<ul>
+		<li><a href="promo/superSiteFor5k.shtml">Акция — сайт за 5000 рублей</a>  <span class="info"></span></li>
+		</ul>
+		</li>
+		<li><a href="sites/index.shtml">Сайты</a>  <span class="info"></span>
+		<ul>
+		<li><a href="sites/BSK.shtml">Сайт «Башкирской стекольной компании»</a>  <span class="info"></span></li>
+		<li><a href="sites/aidarSalimov.shtml">Сайт-портфолио иллюстратора Айдара Салимова</a>  <span class="info"></span></li>
+		<li><a href="sites/aquabrand.shtml">Сайт aquabrand.org</a>  <span class="info"></span></li>
+		<li><a href="sites/avtodoktor.shtml">Сайт «Автодоктор»</a>  <span class="info"></span></li>
+		<li><a href="sites/etiketka16.shtml">Сайт типографии Label Star</a>  <span class="info"></span></li>
+		<li><a href="sites/etiketka63.shtml">Сайт типографии Label Star Самара</a>  <span class="info"></span></li>
+		<li><a href="sites/moika-moika.shtml">Сайт «Мойка-Мойка»</a>  <span class="info"></span></li>
+		<li><a href="sites/tatservice.shtml">Сайт компании «Татсервис»</a>  <span class="info"></span></li>
+		<li><a href="sites/wildnature.shtml">Сайт телеканала «Живая природа»</a>  <span class="info"></span></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+
+</ul>
+	</div>
+
+<div class="grid">
+	<!-- It would be nice to keep this link intact: -->
+	<br><small>Generated by <a href="http://www.danielnaber.de/tree/">tree.pl</a>&nbsp;on 2015-08-24.</small><br><br><br>
+</div>
+
+<div class="footerPush"></div>
+</div>
+	
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+
+</body>
+</html>

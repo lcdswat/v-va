@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>«День соседа»</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeP.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Афиша «День соседа»
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/den-soseda.jpg" class="round" /><br><br>
+			<iframe width="715" height="402" src="//www.youtube.com/embed/u8SG1NbAauk?rel=0" frameborder="0" allowfullscreen></iframe>
+		</div>
+
+		<!-- Описание работы правая колонка -->
+		<div class="workRight">
+			В рамках ежегодного городского форума «<a href="http://urbanbairam.ru/" title="UrbanБайрам-2014">UrbanБайрам-2014</a>» в&nbsp;Уфе прошёл городской пикник «День соседа», где активисты и&nbsp;администрация города могли вживую пообщаться с жителями и&nbsp;узнать их мнение о городских пространствах.<br><br>
+			В студии не только сверстали афишу мероприятия, но и приняли активное участие в организации пикника.
+			<br><br><br>
+			<div class="whoDid">
+				Дизайн, иллюстрация — <a href="http://ilnurnazyrov.ru">Илнур Назыров</a>
+				Вёрстка — <a href="/marat-bakirov">Марат Бакиров</a>
+			</div>
+		</div>
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

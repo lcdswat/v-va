@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Студия v/va</title>
+		<link rel="stylesheet" href="/siteFiles/slider/slider.css">
+		<!-- Вставить хедер сюда -->
+		<!--#include virtual="/includes/header.html"-->
+	</head>
+<body>
+
+	<script src="/siteFiles/slider/jquery.flexslider-min.js"></script>
+
+	<!-- Вставить меню сюда -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+	<!-- Вставить меню портфолио сюда -->
+
+	<style type="text/css">#headerMain {border-bottom: 0px;}</style>
+
+
+	<!-- Слайдер -->
+	<!--#include virtual="/includes/slider.html"-->
+
+
+	<!-- SERV -->
+	<div class="grid" style="padding: 0 0 40px 0;">
+		<div class="serv">
+			<div class="servZag">
+				<a href="/sites">Сайты</a>
+			</div>
+			<div class="servBlock">
+				Разработка сайтов под ключ — каталоги, интернет-магазины, корпоративные сайты.
+				<!-- Сайты «под ключ» — сайты на основе шаблона, корпоративные сайты, каталоги и интернет-магазины.  -->
+			</div>
+		</div>
+		<div class="serv">
+			<div class="servZag">
+				<a href="/print">Полиграфия</a>
+			</div>
+			<div class="servBlock">
+				Дизайн и вёрстка полиграфии —<br>журналы, каталоги, газеты, бро-шюры, книги и прочая реклама. 
+			</div>
+		</div>
+		<div class="serv">
+			<div class="servZag">
+				<a href="/branding">Логотипы</a>
+			</div>
+			<div class="servBlock">
+				Создание брэнда компании — разработка логотипа, фирменного стиля, рекламные компании.
+			</div>
+		</div>
+		<div class="serv" style="margin:0;">
+			<div class="servZag">
+				<a href="/design">Графический дизайн</a>
+			</div>
+			<div class="servBlock">
+				Оформление рекламных поверхностей, каллиграфия,<br>афиши, постеры, иконки.
+			</div>
+		</div>
+		<div class="clean"></div>
+	</div>
+	<!-- EOF SERV -->
+
+
+	<!-- PORTFOLIO -->
+	<div class="gridTwo">
+
+		<!--#include virtual="/sites/BSK_t.html"-->
+		<!--#include virtual="/print/den-soseda_t.html"-->
+		<!--#include virtual="/branding/fitness_guides_t.html"-->
+		<!--#include virtual="/design/oryza_t.html"-->
+		<!--#include virtual="/sites/etiketka16_t.html"-->
+		<!--#include virtual="/print/shturman_t.html"-->
+		<!--#include virtual="/branding/lic79_t.html"-->
+		<!--#include virtual="/design/investCard_t.html"-->
+		<!--#include virtual="/sites/tatservice_t.html"-->
+		<!--#include virtual="/print/juventa_t.html"-->
+		<!--#include virtual="/branding/chertovsky_t.html"-->
+		<!--#include virtual="/design/justMeSMM_t.html"-->
+
+		<div class="clean"></div>
+
+	</div>
+
+	
+	<!-- КОНТАКТЫ 
+	<div class="grid">
+		<div class="cont">
+			<b>Электронная почта</b><br>
+			<a href="mailto:lcd-swat@yandex.ru" id="mail" name="contact">lcd-swat@yandex.ru</a>
+		</div>
+		<div class="cont">
+			<b>Телефон</b><br>
+			+7 919 613 63 16
+		</div>
+		<div class="cont">
+			<b>Скайп</b><br>
+			lcd_swat
+		</div>
+		<div class="cont" style="padding: 40px 0 80px 0;">
+			<b>Адрес</b><br>
+			г. Уфа
+		</div>
+		<div class="clean"></div>
+	</div>-->
+
+	<!-- Новости -->
+	<!--#include virtual="/includes/news.html"-->
+
+	<!-- Вставить футер сюда -->
+	<!--#include virtual="/includes/footer.html"-->	
+
+</body>
+</html>

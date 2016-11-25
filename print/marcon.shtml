@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Брошюра MARCON</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeP.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Брошюра MARCON
+		</div>
+		
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<div class="clean"></div>
+		
+		<div style="padding: 20px 0 40px 0;">
+			Дизайн и вёрстка брошюры для международной компании MARCON.
+			<br><br><div class="whoDid">Дизайн и вёрстка — <a href="/marat-bakirov">Марат Бакиров</a></div>
+		</div>
+
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img class="round" src="images/marcon_01.jpg" /><br><br>
+			<img src="images/marcon_02.jpg" />
+			<img src="images/marcon_03.jpg" />
+			<img src="images/marcon_04.jpg" />
+			<img src="images/marcon_05.jpg" />
+			<img src="images/marcon_06.jpg" />
+			<img src="images/marcon_07.jpg" />
+			<img src="images/marcon_08.jpg" />
+			<img src="images/marcon_09.jpg" />
+			<img src="images/marcon_10.jpg" />
+			<img src="images/marcon_11.jpg" />
+			<img src="images/marcon_12.jpg" />
+			<img src="images/marcon_13.jpg" />
+		</div>
+
+		<!-- Описание работы правая колонка -->
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

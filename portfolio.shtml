@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Портфолио</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<div class="portHeader">
+		Портфолио
+	</div>
+
+	<!-- Портфолио -->
+	<div class="gridTwo">
+		<h2><a href="/sites">Сайты</a></h2>	
+			<!--#include virtual="/sites/BSK_t.html"-->
+			<!--#include virtual="/sites/etiketka63_t.html"-->
+			<!--#include virtual="/sites/etiketka16_t.html"-->
+			<!--#include virtual="/sites/tatservice_t.html"-->
+			<!--#include virtual="/sites/wildnature_t.html"-->
+			<!--#include virtual="/sites/moika-moika_t.html"-->
+			<!--#include virtual="/sites/aquabrand_t.html"-->
+			<!--#include virtual="/sites/aidarSalimov_t.html"-->
+		<div class="clean"></div>
+
+		<br><br><h2><a href="/print">Полиграфия</a></h2>	
+			<!--#include virtual="/print/den-soseda_t.html"-->
+			<!--#include virtual="/print/shturman_t.html"-->
+			<!--#include virtual="/print/juventa_t.html"-->
+			<!--#include virtual="/print/drevograd_t.html"-->
+			<!--#include virtual="/print/marcon_t.html"-->
+		<div class="clean"></div>
+
+		<br><br><h2><a href="/branding">Логотипы, фирменные стили</a></h2>	
+			<!--#include virtual="/branding/fitness_guides_t.html"-->
+			<!--#include virtual="/branding/chertovsky_t.html"-->
+			<!--#include virtual="/branding/lic79_t.html"-->
+			<!--#include virtual="/branding/labrem_t.html"-->
+			<!--#include virtual="/branding/macaronsLab_t.html"-->
+			<!--#include virtual="/branding/nezhnyeFeshi_t.html"-->
+		<div class="clean"></div>
+
+		<br><br><h2><a href="/design">Графический дизайн</a></h2>	
+			<!--#include virtual="/design/oryza_t.html"-->
+			<!--#include virtual="/design/investCard_t.html"-->
+			<!--#include virtual="/design/wedding_weekend_t.html"-->
+			<!--#include virtual="/design/justMeSMM_t.html"-->
+			<!--#include virtual="/design/hipstota_t.html"-->
+			<div class="clean"></div>
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Сайт «Мойка-Мойка»</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeS.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Сайт «Мойка-Мойка»
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/moika-moika_1.jpg" class="roundShadow"/>
+		</div>
+
+		<!-- Описание работы правая колонка -->
+		<div class="workRight">
+			В рамках акциии «Сайт на основе шаблона за 5000 рублей» в студии разработан дизайн сайта для автомойки «Мойка-Мойка».
+			<br><br><br>
+			<div class="whoDid">Дизайн — <a href="/marat-bakirov">Марат Бакиров</a></div>
+		</div>
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

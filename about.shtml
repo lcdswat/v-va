@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>О студии</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<div class="portHeader">
+		Студия дизайна <span style="color: lightgray">bakiro</span>v/va
+	</div>
+
+	<div class="grid">
+
+		Это сайт-портфолио Марата и&nbsp;Кати Бакировых. Здесь мы делимся своими работами и пишем статьи на важные для нас темы.<br><br>
+		
+		Каждый занят своим делом: <a href="/marat-bakirov">Марат</a> верстает всё&nbsp;— от журналов до сайтов, а&nbsp;<a href="/ekaterina-bakirova">Катя</a> любит графический дизайн во всех его проявлениях.<br><br>
+
+		Большинство проектов мы создаем вместе. Отлично ориентируемся в&nbsp;графике, в&nbsp;полиграфии, в&nbsp;леттеринге и&nbsp;каллиграфии, в&nbsp;допечатной подготовке и&nbsp;в&nbsp;создании сайтов.<br><br><br>
+
+		<img src="/siteFiles/weare.png" class="round" title="Иллюстрация — Екатерина Бакирова"></img><br><br><br>
+
+	</div>
+
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

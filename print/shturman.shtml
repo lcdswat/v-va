@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Вёрстка и дизайн журнала «Штурман»</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeP.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Журнал «Штурман»
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/shturman/shturman_030.jpg" />
+			<img src="images/shturman/shturman_059.jpg" />
+			<img src="images/shturman/shturman_056.jpg" />
+			<img src="images/shturman/shturman_058.jpg" />
+			<img src="images/shturman/shturman_032.jpg" />
+			<img src="images/shturman/shturman_036.jpg" />
+			<img src="images/shturman/shturman_066.jpg" />
+			<img src="images/shturman/shturman_074.jpg" />
+			<img src="images/shturman/shturman_006.jpg" />
+			<img src="images/shturman/shturman_045.jpg" />
+			<img src="images/shturman/shturman_047.jpg" />
+		</div>
+
+		<!-- Описание работы правая колонка -->
+		<div class="workRight">
+			Вёрстка и&nbsp;дизайн журнала «Штурман», который вышел в&nbsp;количестве 35&nbsp;номеров<br>в&nbsp;период с&nbsp;2009&nbsp;по&nbsp;2012 годы.<br><br>Не&nbsp;одна тысяча часов была проведена за&nbsp;вёрсткой этого журнала и&nbsp;каждый из&nbsp;них&nbsp;был<br>по-своему интересным.<br><br>Ниже выложенна только часть разворотов из&nbsp;разных номеров подобраных случайным образом. Архив номеров можно полистать на&nbsp;сайте <a href="http://issuu.com/shturm">issuu.com/shturm</a>
+
+			<br><br><br><div class="whoDid">Дизайн и вёрстка — <a href="/marat-bakirov">Марат Бакиров</a></div>
+		</div>
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

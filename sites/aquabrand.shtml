@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Сайт aquabrand.org</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeS.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Сайт aquabrand.org
+		</div>
+
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/aquabrand_1.jpg" class="roundShadow" /><br><br><br>
+			<img src="images/aquabrand_2.jpg" class="roundShadow" /><br><br><br>
+			<img src="images/aquabrand_3.jpg" class="roundShadow" />
+		</div>
+
+		<!-- Описание работы правая колонка -->
+		<div class="workRight">
+			ТД «Водолей» занимается производством бутылированной воды&nbsp;из собственного источника под брендом клиента.<br><br>
+			<a href="http://www.aquabrand.org">Сайт</a> представляет из&nbsp;себя коммерческое предложение с&nbsp;описанием производства и&nbsp;источника, а&nbsp;также содержит удобный калькулятор стоимости партии воды.
+			<br><br><br>
+			<div class="whoDid">Дизайн — <a href="/ekaterina-bakirova">Екатерина Бакирова</a><br>Вёрстка — <a href="/marat-bakirov">Марат Бакиров</a></div>
+		</div>
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

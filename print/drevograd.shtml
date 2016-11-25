@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Каталог «Древоград»</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<!-- Меню портфолио -->
+	<!--#include virtual="/includes/portfolioMenu.html"-->
+
+	<!-- Активный пункт портфеля -->
+	<!--#include virtual="/includes/activeP.html"-->
+
+	<div class="grid">
+		<!-- Заголовок работы -->
+		<div class="workHeader">
+			Каталог «Древоград»
+		</div>
+		
+		<!--#include virtual="/includes/buttons.html"-->
+
+		<div class="clean"></div>
+		
+		<div style="padding: 20px 0 40px 0;">
+			Дизайн и верстка каталога компании «Древоград», которая занимается проектированием, производством и строительством современных деревянных домов.
+			<br><br><div class="whoDid">Дизайн и вёрстка — <a href="/marat-bakirov">Марат Бакиров</a></div>
+		</div>
+
+
+		<!-- Описание работы левая колонка -->
+		<div class="workLeft">
+			<img src="images/drevograd_1.jpg" />
+			<img src="images/drevograd_2.jpg" />
+			<img src="images/drevograd_3.jpg" />
+			<img src="images/drevograd_4.jpg" />
+			<img src="images/drevograd_5.jpg" />
+			<img src="images/drevograd_6.jpg" />
+			<img src="images/drevograd_7.jpg" />
+			<img src="images/drevograd_8.jpg" />
+			<img src="images/drevograd_9.jpg" />
+			<img src="images/drevograd_10.jpg" />
+			<img src="images/drevograd_11.jpg" />
+			<img src="images/drevograd_12.jpg" />
+			<img src="images/drevograd_13.jpg" />
+			<img src="images/drevograd_14.jpg" />
+			<img src="images/drevograd_15.jpg" />
+			<img src="images/drevograd_16.jpg" />
+			<img src="images/drevograd_17.jpg" />
+			<img src="images/drevograd_18.jpg" />
+			<img src="images/drevograd_19.jpg" />
+			<img src="images/drevograd_20.jpg" />
+			<img src="images/drevograd_21.jpg" />
+		</div>
+
+		<!-- Описание работы правая колонка -->
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>

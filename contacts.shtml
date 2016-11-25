@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Весь хедер и стили -->
+		<!--#include virtual="/includes/header.html"-->
+		<title>Контакты</title>
+	</head>
+<body>
+
+<div class="wrapper">
+
+	<!-- Меню главное -->
+	<!--#include virtual="/includes/mainMenu.html"-->
+
+	<div class="portHeader">
+		Контакты
+	</div>
+
+	<div class="grid">
+		<div class="column">
+			Телефон<br>
+			<h2>+7 919 613 63 16</h2>
+			Почта<br>
+			<h2><a href="mailto:lcd-swat@yandex.ru">lcd-swat@yandex.ru</a></h2>
+			Скайп<br>
+			<h2>lcd_swat</h2>
+		</div>
+
+		<div class="column">
+			Вконтакте<br>
+			<h2><a href="http://vk.com/vva_design">vk.com/vva_design</a></h2>
+			Facebook<br>
+			<h2><a href="https://www.facebook.com/lcd.swat">Марат Бакиров</a></h2>
+			Facebook<br>
+			<h2><a href="https://www.facebook.com/katebakirova">Екатерина Бакирова</a></h2>
+		</div>
+
+		<div class="column">
+			Instagram<br>
+			<h2><a href="https://instagram.com/katherine_katz/">katherine_katz</a></h2>
+			Twitter<br>
+			<h2><a href="https://twitter.com/vva_studio">@vva_studio</a></h2>
+			Презентация<br>
+			<h2>Скоро будет</h2>
+		</div>			
+
+	</div>
+
+<div class="footerPush"></div>
+</div>
+
+	<!-- Футер -->
+	<!--#include virtual="/includes/footer.html"-->
+
+</body>
+</html>
